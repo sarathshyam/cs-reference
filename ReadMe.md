@@ -74,9 +74,9 @@ Group of computers..
 * DNS
 * Architecture of the internet
 * HTTP Fundamentals
- * Spec
- * Important Request and Response headers
- * HTTPS
+  * Spec
+  * Important Request and Response headers
+  * HTTPS
 
 ---
 
