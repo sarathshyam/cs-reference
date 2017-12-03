@@ -29,21 +29,21 @@ Enough of ranting, let's jump right in !.
 
 The atomic building blocks!- bare metal stuff
 
-* Basic Math
- * Binary
- * BitWise Operators
- * Masking
- * Bit Hacks
- * HexaDecimal- Why Hexadecimal in CS
-* Character Set & Encoding
-* How CPU Works
-* Endianness
-* Some Basic skills
- * Math skills
-  	*  Numbers and scales
- * Markdown for documentation
- * Learn C
- * Understanding of compilers
+- Basic Math
+ 	- Binary
+ 	- BitWise Operators
+ 	- Masking
+ 	- Bit Hacks
+ 	- HexaDecimal- Why Hexadecimal in CS
+- Character Set & Encoding
+- How CPU Works
+- Endianness
+- Some Basic skills
+	- Math skills
+		-  Numbers and scales
+	- Markdown for documentation
+	- Learn C
+	- Understanding of compilers
 
 
 **Good Reads & Views**
@@ -74,9 +74,9 @@ Group of computers..
 * DNS
 * Architecture of the internet
 * HTTP Fundamentals
-  * Spec
-  * Important Request and Response headers
-  * HTTPS
+	* Spec
+	* Important Request and Response headers
+	* HTTPS
 
 ---
 
@@ -106,12 +106,12 @@ ToDo
 ---
 ## Programming
 * Programming Paradigms
- * Imperative
- * Functional
- * Declarative
+	* Imperative
+	* Functional
+	* Declarative
 * Core Concepts
- * Abstraction
- * OOPS
+ 	* Abstraction
+ 	* OOPS
 * SOLID principles
 * Code Complexity
 * Design Patterns
@@ -126,31 +126,31 @@ ToDo
 ---
 ## System Design
 * System Design pricniples and patterns
- * Architecture Patterns
- * Microservices
+	* Architecture Patterns
+	* Microservices
 * Layering
 * Documenting system designs
 * NFRs
- * Security- Authentication & Authorization
- * Scalability
- * Availability
- * Reliability
- * Maintinability
- * Monitorability
- * Evolvability
- * Configurability
+	* Security- Authentication & Authorization
+	* Scalability
+	* Availability
+	* Reliability
+	* Maintinability
+	* Monitorability
+	* Evolvability
+	* Configurability
 * Distributed Systems
- * ACID vs BASE, CAP Theorem
+	* ACID vs BASE, CAP Theorem
 * DataStorage systems
- * Durable
- 	* RDBMS- Concepts, DataModelling
- 	* NOSQL
- * Volatile
- 	* Caches
+	* Durable
+ 		* RDBMS- Concepts, DataModelling
+ 		* NOSQL
+	* Volatile
+ 		* Caches
 * Messaging
- * In Process - eg: Queue and Worker threads
- * In Memory- Pipes, Messaging systems
- * Distributed
+	* In Process - eg: Queue and Worker threads
+	* In Memory- Pipes, Messaging systems
+	* Distributed
 * NFR Testing and Benchmarking
 
 
