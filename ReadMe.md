@@ -12,8 +12,8 @@ Hopefully, this will be of some use to anyone dropping by.
 Enough of ranting, let's jump right in !.
 
 ---
-__TOC__
-
+# Table of Contents
+[The Basics][:#the-basics]
 
 ## The Basics
 
