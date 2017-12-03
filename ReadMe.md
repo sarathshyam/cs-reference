@@ -12,7 +12,7 @@ Hopefully, this will be of some use to anyone dropping by.
 Enough of ranting, let's jump right in !.
 
 ---
-[TOC]
+__TOC__
 
 
 ## The Basics
