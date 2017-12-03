@@ -13,7 +13,17 @@ Enough of ranting, let's jump right in !.
 
 ---
 # Table of Contents
-[The Basics][:#the-basics]
+- [The Basics](#the-basics)
+- [Operating System](#operating-system)
+- [Computer Networks](#computer-networks)
+- [DataStructures & Algorithms](#ds-algo)
+	- [Data Structures](#data-structures)
+	- [Algorithms](#algorithms)
+- [Programming](#programming)
+- [System Design](#system-design)
+- [Computer Security](#computer-security)
+- [Testing](#testing)
+- [Version Control](#version-control)
 
 ## The Basics
 
@@ -71,6 +81,7 @@ Group of computers..
 
 ---
 
+<a name="ds-algo"/>
 ## DataStructures & Algorithms
 
 To better at problem solving
