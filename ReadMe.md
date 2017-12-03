@@ -16,7 +16,7 @@ Enough of ranting, let's jump right in !.
 - [The Basics](#the-basics)
 - [Operating System](#operating-system)
 - [Computer Networks](#computer-networks)
-- [DataStructures & Algorithms](#ds-algo)
+- [DataStructures & Algorithms](#dataStructures-&-lgorithms)
 	- [Data Structures](#data-structures)
 	- [Algorithms](#algorithms)
 - [Programming](#programming)
@@ -35,7 +35,6 @@ The atomic building blocks!- bare metal stuff
  * Masking
  * Bit Hacks
  * HexaDecimal- Why Hexadecimal in CS
-
 * Character Set & Encoding
 * How CPU Works
 * Endianness
@@ -47,7 +46,7 @@ The atomic building blocks!- bare metal stuff
  * Understanding of compilers
 
 
-++**Good Reads & Views**++
+**Good Reads & Views**
 
 **Books**
 * Computer Science from the Bottom Up
@@ -81,7 +80,7 @@ Group of computers..
 
 ---
 
-<a name="ds-algo"/>
+
 ## DataStructures & Algorithms
 
 To better at problem solving
@@ -96,7 +95,8 @@ ToDo
 ToDo
 
 
-++**Good Reads & Views**++
+**Good Reads & Views**
+
 **Books**
 
 **Videos**
@@ -118,7 +118,7 @@ ToDo
 * Debugging
 
 
-++**Good Reads & Views**++
+**Good Reads & Views**
 **Books**
 * The Prgamtic Programmer
 * Code Complete
@@ -154,7 +154,7 @@ ToDo
 * NFR Testing and Benchmarking
 
 
-++**Good Reads & Views**++
+**Good Reads & Views**
 **Books**
 * Release It
 
