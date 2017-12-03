@@ -16,7 +16,7 @@ Enough of ranting, let's jump right in !.
 - [The Basics](#the-basics)
 - [Operating System](#operating-system)
 - [Computer Networks](#computer-networks)
-- [DataStructures & Algorithms](#dataStructures--algorithms)
+- [DataStructures & Algorithms](#datastructures--algorithms)
 	- [Data Structures](#data-structures)
 	- [Algorithms](#algorithms)
 - [Programming](#programming)
