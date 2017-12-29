@@ -177,6 +177,10 @@ ToDo
 * GIT basics
 * Version control strategies
 
+## References
+https://github.com/ossu/computer-science#introduction-to-computer-science
+https://github.com/ossu/computer-science/blob/master/extras/readings.md
+https://github.com/donnemartin/system-design-primer
 
 
 
