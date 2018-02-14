@@ -154,7 +154,8 @@ ToDo
 * NFR Testing and Benchmarking
 
 
-**Good Reads & Views**
+**Good Reads**
+* [System Design- Practice problems](http://blog.gainlo.co/index.php/2016/08/28/design-ecommerce-website-part-ii/)
 **Books**
 * Release It
 
