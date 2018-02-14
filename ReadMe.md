@@ -155,9 +155,10 @@ ToDo
 
 
 **Good Reads**
-* [System Design- Practice problems](http://blog.gainlo.co/index.php/2016/08/28/design-ecommerce-website-part-ii/)
-* [System Design- Approach](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
-**Books**
+* [System Design- Practice problems](http://blog.gainlo.co/index.php/2016/08/28/design-ecommerce-website-part-ii/).
+* [System Design- Approach](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/).
+
+** Books**
 * Release It
 
 ---
